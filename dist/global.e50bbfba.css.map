@@ -1,0 +1,1 @@
+{"version":3,"sources":["global.css"],"names":[],"mappings":"AAAA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA;AACA","file":"global.e50bbfba.css","sourceRoot":"../public","sourcesContent":["h1 {\n  color: red;\n}\n\n@media screen and (max-width: 1080px) {\n  h1 {\n    color: yellow;\n  }\n}\n"]}
